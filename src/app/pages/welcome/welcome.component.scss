@@ -1,0 +1,14 @@
+.searchDiv{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  & > div{
+    width: 250px;
+  }
+}
+.ant-input{
+  width:auto
+}
+.ant-btn-primary{
+  margin-right: 20px;
+}
